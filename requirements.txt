@@ -1,0 +1,6 @@
+numpy==1.16.4
+cv2==4.4.0
+skimage.io==0.15.0
+matplotlib.pyplot==3.1.0
+sklearn.cluster 0.21.2
+watermark 2.0.2
